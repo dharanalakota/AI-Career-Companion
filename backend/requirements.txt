@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+python-multipart
+pymupdf
+python-docx
+google-genai
+python-dotenv
+email-validator
+pytest
